@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+chaychits
+[![Codwears badge](https://www.codewars.com/users/chaychits/badges/micro)](https://www.codewars.com/users/chaychits)
 <!--
 **chaychits/chaychits** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
